@@ -1,0 +1,10 @@
+[input_params]
+snapshot_dir = '~/UFL Dropbox/Aditya Penumarti/2D-3DSonar Data/Bag Files/snapshots'
+collection_name = 'concrete_block_up_seperated_day2'
+snapshot_number = "0037"
+
+[calibration_params]
+dy = 0.0
+psi = 0.0
+radius_scale = 1.0
+az_scale = 1.0

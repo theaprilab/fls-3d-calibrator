@@ -1,0 +1,15 @@
+.vscode/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+uv.lock
+test_images/
+viewer_output/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
