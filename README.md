@@ -1,7 +1,7 @@
 # FLS-3D Calibrator
 This repository contains the code for calibrating the FLS-3D sonar sensor. The calibration process involves determining the intrinsic and extrinsic parameters of the sonar sensor to improve its accuracy and performance in various applications such as underwater mapping, object detection, and navigation.
 
-Datasets for this paper can be found on the [website](https://theaprilab.org/fls-3d-calibrator/) or alternatively at the (HF dataset page)[https://huggingface.co/datasets/adi-pen/fls-3d-calibrator-dataset]
+Datasets for this paper can be found on the [website](https://theaprilab.org/fls-3d-calibrator/) or alternatively at the [HF dataset page](https://huggingface.co/datasets/adi-pen/fls-3d-calibrator-dataset)
 
 ## Installation
 To install the necessary dependencies for the FLS-3D Calibrator, follow these steps:
